@@ -5,7 +5,7 @@
 
   <groupId>io.github.ci-cmg.aws</groupId>
   <artifactId>aws-cf-custom-resource-bucket-drain</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.1.0-SNAPSHOT</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>AWS CLoudFormation Custom Resource Lambda - Bucket Drain</description>
@@ -23,7 +23,7 @@
     <connection>scm:git:git@github.com:CI-CMG/aws-cf-custom-resource-bucket-drain.git</connection>
     <developerConnection>scm:git:git@github.com:CI-CMG/aws-cf-custom-resource-bucket-drain.git</developerConnection>
     <url>https://github.com/CI-CMG/aws-cf-custom-resource-bucket-drain</url>
-    <tag>1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
