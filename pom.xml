@@ -11,6 +11,13 @@
   <description>AWS CLoudFormation Custom Resource Lambda - Bucket Drain</description>
   <url>https://github.com/CI-CMG/aws-cf-custom-resource-bucket-drain</url>
 
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
+    </license>
+  </licenses>
+
   <developers>
     <developer>
       <name>CIRES Coastal and Marine Geophysics / Marine Geology and Geophysics Software Developers</name>
